@@ -1,0 +1,219 @@
+# Shortcut Launcher for NVDA - Turkish Translation
+# Copyright (C) 2024 Batuhan Demir
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcut Launcher 1.0.0\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2024-12-23 12:00+0000\n"
+"PO-Revision-Date: 2025-12-24 00:23+0300\n"
+"Last-Translator: Batuhan Demir\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Translators: Category name shown in Input Gestures
+msgid "Shortcut Launcher"
+msgstr "Shortcut Launcher"
+
+#. Translators: Description for opening the shortcut launcher
+msgid "Open Shortcut Launcher"
+msgstr "Shortcut Launcher'ı Aç"
+
+#. Translators: Label for filter radio buttons
+msgid "&Filter:"
+msgstr "&Filtre:"
+
+#. Translators: Filter option to show all shortcuts
+msgid "All"
+msgstr "Tümü"
+
+#. Translators: Filter option to show only program shortcuts
+msgid "Programs"
+msgstr "Programlar"
+
+#. Translators: Filter option to show only folder shortcuts
+msgid "Folders"
+msgstr "Klasörler"
+
+#. Translators: Filter option to show only URL shortcuts
+msgid "URLs"
+msgstr "URL'ler"
+
+#. Translators: Label for the shortcuts list
+msgid "&Shortcuts:"
+msgstr "&Kısayollar:"
+
+#. Translators: Button to add a new shortcut
+msgid "&Add..."
+msgstr "&Ekle..."
+
+#. Translators: Button to edit the selected shortcut
+msgid "&Edit..."
+msgstr "&Düzenle..."
+
+#. Translators: Button to delete the selected shortcut
+msgid "&Delete"
+msgstr "&Sil"
+
+#. Translators: Button to run/execute the selected shortcut
+msgid "&Run"
+msgstr "&Çalıştır"
+
+#. Translators: Button to close the dialog
+msgid "&Close"
+msgstr "&Kapat"
+
+#. Translators: Type indicator for program shortcuts
+msgid "Program"
+msgstr "Program"
+
+#. Translators: Type indicator for folder shortcuts
+msgid "Folder"
+msgstr "Klasör"
+
+#. Translators: Type indicator for URL shortcuts
+msgid "URL"
+msgstr "URL"
+
+#. Translators: Confirmation message when deleting a shortcut
+msgid "Are you sure you want to delete '{}'?"
+msgstr "'{}' kısayolunu silmek istediğinizden emin misiniz?"
+
+#. Translators: Title of delete confirmation dialog
+msgid "Confirm Delete"
+msgstr "Silmeyi Onayla"
+
+#. Translators: Message announced when a shortcut is deleted
+msgid "Shortcut deleted"
+msgstr "Kısayol silindi"
+
+#. Translators: Message when shortcut target is empty
+msgid "Shortcut target is empty"
+msgstr "Kısayol hedefi boş"
+
+#. Translators: Message when launching a program
+msgid "Launching {}"
+msgstr "{} başlatılıyor"
+
+#. Translators: Message when program not found
+msgid "Program not found: {}"
+msgstr "Program bulunamadı: {}"
+
+#. Translators: Message when opening a folder
+msgid "Opening {}"
+msgstr "{} açılıyor"
+
+#. Translators: Message when folder not found
+msgid "Folder not found: {}"
+msgstr "Klasör bulunamadı: {}"
+
+#. Translators: Error message when shortcut execution fails
+msgid "Error: {}"
+msgstr "Hata: {}"
+
+#. Translators: Title for edit shortcut dialog
+msgid "Edit Shortcut"
+msgstr "Kısayolu Düzenle"
+
+#. Translators: Title for add shortcut dialog
+msgid "Add Shortcut"
+msgstr "Kısayol Ekle"
+
+#. Translators: Label for shortcut name field
+msgid "&Name:"
+msgstr "&Ad:"
+
+#. Translators: Label for shortcut type dropdown
+msgid "&Type:"
+msgstr "&Tür:"
+
+#. Translators: Label for shortcut target field
+msgid "&Target:"
+msgstr "&Hedef:"
+
+#. Translators: Button to browse for file/folder
+msgid "&Browse..."
+msgstr "&Gözat..."
+
+#. Translators: Hint for program target field
+msgid "Path to executable..."
+msgstr "Çalıştırılabilir dosya yolu..."
+
+#. Translators: Hint for folder target field
+msgid "Path to folder..."
+msgstr "Klasör yolu..."
+
+#. Translators: Hint for URL target field
+msgid "https://example.com"
+msgstr "https://ornek.com"
+
+#. Translators: Title for program file selection dialog
+msgid "Select Program"
+msgstr "Program Seç"
+
+#. Translators: File type filter for executable files
+msgid "Executable files (*.exe)|*.exe|All files (*.*)|*.*"
+msgstr "Çalıştırılabilir dosyalar (*.exe)|*.exe|Tüm dosyalar (*.*)|*.*"
+
+#. Translators: Title for folder selection dialog
+msgid "Select Folder"
+msgstr "Klasör Seç"
+
+#. Translators: Error message when name is empty
+msgid "Please enter a name for the shortcut."
+msgstr "Lütfen kısayol için bir ad girin."
+
+#. Translators: Validation error dialog title
+msgid "Validation Error"
+msgstr "Doğrulama Hatası"
+
+#. Translators: Error message when target is empty
+msgid "Please enter a target for the shortcut."
+msgstr "Lütfen kısayol için bir hedef girin."
+
+#. Translators: Error message when program file doesn't exist
+msgid "The specified program file does not exist."
+msgstr "Belirtilen program dosyası mevcut değil."
+
+#. Translators: Error message when folder doesn't exist
+msgid "The specified folder does not exist."
+msgstr "Belirtilen klasör mevcut değil."
+
+#. Translators: Option to use system default browser
+msgid "System Default"
+msgstr "Sistem Varsayılanı"
+
+#. Translators: Option to specify a custom browser
+msgid "Custom..."
+msgstr "Özel..."
+
+#. Translators: Label for browser selection dropdown
+msgid "Default &browser for URLs:"
+msgstr "URL'ler için varsayılan &tarayıcı:"
+
+#. Translators: Label for custom browser path field
+msgid "Custom browser &path:"
+msgstr "Özel tarayıcı &yolu:"
+
+#. Translators: Button to browse for custom browser executable
+msgid "B&rowse..."
+msgstr "G&özat..."
+
+#. Translators: Label showing total number of shortcuts
+msgid "Total shortcuts: {}"
+msgstr "Toplam kısayol: {}"
+
+#. Translators: Button to open the Shortcut Launcher dialog
+msgid "&Manage Shortcuts..."
+msgstr "&Kısayolları Yönet..."
+
+#. Translators: Title for browser executable selection dialog
+msgid "Select Browser Executable"
+msgstr "Tarayıcı Çalıştırılabilir Dosyasını Seç"
+
+#. Translators: Error message when custom browser path is invalid
+msgid "The specified browser executable does not exist."
+msgstr "Belirtilen tarayıcı çalıştırılabilir dosyası mevcut değil."

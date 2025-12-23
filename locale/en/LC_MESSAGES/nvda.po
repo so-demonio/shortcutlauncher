@@ -1,0 +1,240 @@
+# NVDA Add-on: Shortcuts Manager
+# Copyright (C) 2024 Batu
+# This file is distributed under the same license as the Shortcuts Manager package.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcuts Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-23 12:00+0000\n"
+"PO-Revision-Date: 2024-12-23 12:00+0000\n"
+"Last-Translator: Batu\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Category name shown in Input Gestures
+msgid "Shortcuts Manager"
+msgstr "Shortcuts Manager"
+
+# Description for opening the shortcuts manager
+msgid "Open Shortcuts Manager"
+msgstr "Open Shortcuts Manager"
+
+# Title of the Shortcuts Manager dialog
+msgid "Shortcuts Manager"
+msgstr "Shortcuts Manager"
+
+# Label for filter radio buttons
+msgid "&Filter:"
+msgstr "&Filter:"
+
+# Filter option to show all shortcuts
+msgid "All"
+msgstr "All"
+
+# Filter option to show only program shortcuts
+msgid "Programs"
+msgstr "Programs"
+
+# Filter option to show only folder shortcuts
+msgid "Folders"
+msgstr "Folders"
+
+# Filter option to show only URL shortcuts
+msgid "URLs"
+msgstr "URLs"
+
+# Label for the shortcuts list
+msgid "&Shortcuts:"
+msgstr "&Shortcuts:"
+
+# Button to add a new shortcut
+msgid "&Add..."
+msgstr "&Add..."
+
+# Button to edit the selected shortcut
+msgid "&Edit..."
+msgstr "&Edit..."
+
+# Button to delete the selected shortcut
+msgid "&Delete"
+msgstr "&Delete"
+
+# Button to run/execute the selected shortcut
+msgid "&Run"
+msgstr "&Run"
+
+# Button to close the dialog
+msgid "&Close"
+msgstr "&Close"
+
+# Type indicator for program shortcuts in list
+msgid "Program"
+msgstr "Program"
+
+# Type indicator for folder shortcuts in list
+msgid "Folder"
+msgstr "Folder"
+
+# Type indicator for URL shortcuts in list
+msgid "URL"
+msgstr "URL"
+
+# Confirmation message when deleting a shortcut
+msgid "Are you sure you want to delete '{}'?"
+msgstr "Are you sure you want to delete '{}'?"
+
+# Title of delete confirmation dialog
+msgid "Confirm Delete"
+msgstr "Confirm Delete"
+
+# Message announced when a shortcut is deleted
+msgid "Shortcut deleted"
+msgstr "Shortcut deleted"
+
+# Message when shortcut target is empty
+msgid "Shortcut target is empty"
+msgstr "Shortcut target is empty"
+
+# Message when launching a program
+msgid "Launching {}"
+msgstr "Launching {}"
+
+# Message when program not found
+msgid "Program not found: {}"
+msgstr "Program not found: {}"
+
+# Message when opening a folder
+msgid "Opening {}"
+msgstr "Opening {}"
+
+# Message when folder not found
+msgid "Folder not found: {}"
+msgstr "Folder not found: {}"
+
+# Error message when shortcut execution fails
+msgid "Error: {}"
+msgstr "Error: {}"
+
+# Title for edit shortcut dialog
+msgid "Edit Shortcut"
+msgstr "Edit Shortcut"
+
+# Title for add shortcut dialog
+msgid "Add Shortcut"
+msgstr "Add Shortcut"
+
+# Label for shortcut name field
+msgid "&Name:"
+msgstr "&Name:"
+
+# Label for shortcut type dropdown
+msgid "&Type:"
+msgstr "&Type:"
+
+# Label for shortcut target field
+msgid "&Target:"
+msgstr "&Target:"
+
+# Button to browse for file/folder
+msgid "&Browse..."
+msgstr "&Browse..."
+
+# Label for keyboard gesture field
+msgid "&Gesture (optional):"
+msgstr "&Gesture (optional):"
+
+# Placeholder text for gesture field
+msgid "e.g., kb:NVDA+alt+n"
+msgstr "e.g., kb:NVDA+alt+n"
+
+# Help text explaining gesture format
+msgid "Format: kb:NVDA+key (e.g., kb:NVDA+alt+n)"
+msgstr "Format: kb:NVDA+key (e.g., kb:NVDA+alt+n)"
+
+# Hint for program target field
+msgid "Path to executable..."
+msgstr "Path to executable..."
+
+# Hint for folder target field
+msgid "Path to folder..."
+msgstr "Path to folder..."
+
+# Hint for URL target field
+msgid "https://example.com"
+msgstr "https://example.com"
+
+# Title for program file selection dialog
+msgid "Select Program"
+msgstr "Select Program"
+
+# File type filter for executable files
+msgid "Executable files (*.exe)|*.exe|All files (*.*)|*.*"
+msgstr "Executable files (*.exe)|*.exe|All files (*.*)|*.*"
+
+# Title for folder selection dialog
+msgid "Select Folder"
+msgstr "Select Folder"
+
+# Error message when name is empty
+msgid "Please enter a name for the shortcut."
+msgstr "Please enter a name for the shortcut."
+
+# Validation error dialog title
+msgid "Validation Error"
+msgstr "Validation Error"
+
+# Error message when target is empty
+msgid "Please enter a target for the shortcut."
+msgstr "Please enter a target for the shortcut."
+
+# Error message when program file doesn't exist
+msgid "The specified program file does not exist."
+msgstr "The specified program file does not exist."
+
+# Error message when folder doesn't exist
+msgid "The specified folder does not exist."
+msgstr "The specified folder does not exist."
+
+# Error message for invalid gesture format
+msgid "Gesture must start with 'kb:' (e.g., kb:NVDA+alt+n).\nLeave empty if you don't want a keyboard shortcut."
+msgstr "Gesture must start with 'kb:' (e.g., kb:NVDA+alt+n).\nLeave empty if you don't want a keyboard shortcut."
+
+# Option to use system default browser
+msgid "System Default"
+msgstr "System Default"
+
+# Option to specify a custom browser
+msgid "Custom..."
+msgstr "Custom..."
+
+# Label for browser selection dropdown
+msgid "Default &browser for URLs:"
+msgstr "Default &browser for URLs:"
+
+# Label for custom browser path field
+msgid "Custom browser &path:"
+msgstr "Custom browser &path:"
+
+# Button to browse for custom browser executable
+msgid "B&rowse..."
+msgstr "B&rowse..."
+
+# Label showing total number of shortcuts
+msgid "Total shortcuts: {}"
+msgstr "Total shortcuts: {}"
+
+# Button to open the Shortcuts Manager dialog
+msgid "&Manage Shortcuts..."
+msgstr "&Manage Shortcuts..."
+
+# Title for browser executable selection dialog
+msgid "Select Browser Executable"
+msgstr "Select Browser Executable"
+
+# Error message when custom browser path is invalid
+msgid "The specified browser executable does not exist."
+msgstr "The specified browser executable does not exist."
