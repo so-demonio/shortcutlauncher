@@ -1,12 +1,12 @@
 # Shortcut Launcher for NVDA - Turkish Translation
-# Copyright (C) 2024 Batuhan Demir
+# Copyright (C) 2024 so-demonio
 msgid ""
 msgstr ""
 "Project-Id-Version: Shortcut Launcher 1.0.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2024-12-23 12:00+0000\n"
 "PO-Revision-Date: 2025-12-24 00:23+0300\n"
-"Last-Translator: Batuhan Demir\n"
+"Last-Translator: so-demonio\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"

@@ -1,5 +1,5 @@
 # Shortcut Launcher for NVDA - Storage Module
-# Copyright (C) 2025 Batuhan Demir
+# Copyright (C) 2025 so-demonio
 
 import json
 import os

@@ -1,5 +1,5 @@
 # Shortcut Launcher for NVDA - Settings Panel
-# Copyright (C) 2025 Batuhan Demir
+# Copyright (C) 2025 so-demonio
 
 import wx
 import os

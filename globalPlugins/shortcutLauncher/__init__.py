@@ -1,5 +1,5 @@
 # Shortcut Launcher for NVDA
-# Copyright (C) 2025 Batuhan Demir
+# Copyright (C) 2025 so-demonio
 # This add-on is licensed under the GNU General Public License version 2.
 
 import globalPluginHandler

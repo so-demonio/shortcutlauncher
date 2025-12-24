@@ -1,5 +1,5 @@
 # Shortcut Launcher for NVDA - Browser Detection Module
-# Copyright (C) 2025 Batuhan Demir
+# Copyright (C) 2025 so-demonio
 
 import os
 import subprocess
